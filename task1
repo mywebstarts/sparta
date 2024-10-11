@@ -1,3 +1,7 @@
+
+
+
+
 import random                              
 number = random.randrange(1, 11)                                     # 랜덤숫자를 불러오는 코드
 print('QUIZ 1~10사이의 숫자중에서 하나 골라보세요!') 랜
@@ -17,3 +21,13 @@ while True:                                                          # 루프 �
         else:
             print('게임을 종료합니다. 언젠가 다시 만나요!')                   # n 을 입력하면 break를 통해 반복문을 종료한다.
             break
+
+
+
+
+
+
+
+
+
+
